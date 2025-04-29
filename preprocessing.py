@@ -41,18 +41,26 @@ def load_and_clean_data(posts_path, comments_path):
     comments_dataframe = pd.read_excel(comments_path)
 
     post_col = posts_dataframe.columns[1]
-    comment_col = comments_dataframe.columns[1]
+    comment_col = comments_dataframe.columns[4]
 
     posts_dataframe['cleaned_text'] = posts_dataframe[post_col].apply(clean_text)
     comments_dataframe['cleaned_text'] = comments_dataframe[comment_col].apply(clean_text)
 
     return posts_dataframe, comments_dataframe
 
+def group_comments_by_post(comments_dataframe):
+    post_col = comments_dataframe.columns[1]
+    grouped = comments_dataframe.groupby(post_col)['cleaned_text'].apply(lambda x: ' '.join(x)).reset_index()
+    grouped.columns = ['post_text', 'all_comments']
+    return grouped
+
 if __name__ == "__main__":
     posts_path = "facebook posts.xlsx"
-    comments_path = "facebook posts.xlsx"
+    comments_path = "facebook comments.xlsx"
 
     posts_dataframe, comments_dataframe = load_and_clean_data(posts_path, comments_path)
+    grouped_comments = group_comments_by_post(comments_dataframe)
 
+    print(grouped_comments.head())
     print(posts_dataframe.head())
     print(comments_dataframe.head())
