@@ -55,8 +55,8 @@ def group_comments_by_post(comments_dataframe):
     return grouped
 
 if __name__ == "__main__":
-    posts_path = "facebook posts.xlsx"
-    comments_path = "facebook comments.xlsx"
+    posts_path = "data/facebook posts.xlsx"
+    comments_path = "data/facebook comments.xlsx"
 
     posts_dataframe, comments_dataframe = load_and_clean_data(posts_path, comments_path)
     grouped_comments = group_comments_by_post(comments_dataframe)

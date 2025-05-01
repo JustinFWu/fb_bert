@@ -6,3 +6,5 @@ nltk
 scikit-learn
 umap-learn
 matplotlib
+seaborn
+hdbscan
