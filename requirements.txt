@@ -4,3 +4,5 @@ torch
 transformers
 nltk
 scikit-learn
+umap-learn
+matplotlib
