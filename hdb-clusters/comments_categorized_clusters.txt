@@ -1,0 +1,690 @@
+Cluster 0: OTHER
+Keywords: theodosis, karageorgakis, check, great, video, youtube, educraft, ai, share, hub
+
+Cluster 1: OTHER
+Keywords: stories, thoughts, hear, love, free, ai, visualized, turn, text, comicfy
+
+Cluster 2: ADVICE
+Keywords: ai, students, prompt, example, tools, create, learning, use, free, chatgpt
+
+Cluster 3: ADVICE
+Keywords: resource, ai, bitlifeaipubbitlifeabeababcmathteacher, assistance, look, bitlifeaipubbitlifebabccfaaaealessonplancreator, helpful, check, bitlifeaicatalogfdbacaaaecfaceducationchatbots, education
+
+Cluster 4: ADVICE
+Keywords: notebooklm, community, users, ai, learn, group, use, check, love, try
+
+Cluster 5: OTHER
+Keywords: ai, mathstercom, want, require, exactly, need, good, try, complain, worksheets
+
+Cluster 6: ADVICE
+Keywords: useful, try, ton, tips, tracy, stina, quist, martensleasher, mandy, ann
+
+Cluster 7: ADVICE
+Keywords: lingoteachai, languages, world, teaching, language, resources, interactive, makes, esl, foreign
+
+Cluster 9: ADVICE
+Keywords: prefer, teachers, tools, ai, check, teaching, assistants, presentation, presentations, generating
+
+Cluster 10: OTHER
+Keywords: claude, anthropic, try, rani, tell, look, know, probably, perplexity, better
+
+Cluster 11: ADVICE
+Keywords: free, ai, group, tools, help, post, course, useful, resources, need
+
+Cluster 12: OTHER
+Keywords: enlightenmeai, grade, feedback, lesson, worksheets, generates, markingfeedback, jam, worksheet, denmark
+
+Cluster 13: ADVICE
+Keywords: cathoven, esl, english, favorite, great, teaching, esltesol, twee, perfect, suggest
+
+Cluster 14: ADVICE
+Keywords: ai, cathoven, teaching, language, english, check, esl, try, recommend, sure
+
+Cluster 15: OTHER
+Keywords: canva, language, stop, shop, teaching, teachers, really, soon, school, virtual
+
+Cluster 17: ADVICE
+Keywords: language, ai, blog, school, tutorials, ongoing, posts, support, year, classrooms
+
+Cluster 18: OTHER
+Keywords: language, ai, summit, donationbased, join, th, august, monday, welcome, topics
+
+Cluster 19: ADVICE
+Keywords: use, ai, various, findaiforthatcoza, check, tasks, tools, hundreds, search, keyword
+
+Cluster 20: ADVICE
+Keywords: various, website, tools, access, findaiforthatcom, ai, check, search, education, gamma
+
+Cluster 21: ADVICE
+Keywords: various, tasks, findaiforthatcoza, tools, ai, hundreds, check, use, try, findaiforthatcom
+
+Cluster 22: ADVICE
+Keywords: feedback, writing, leaving, use, suggest, love, help, try, grading, user
+
+Cluster 23: OTHER
+Keywords: math, wolfram, gpts, free, look, check, teachers, good, know, popular
+
+Cluster 24: OTHER
+Keywords: free, aiclub, gym, kids, check, good, activity, including, thats, activities
+
+Cluster 25: ADVICE
+Keywords: need, reach, students, platform, mixflowai, plus, questions, allinone, feel, help
+
+Cluster 26: OTHER
+Keywords: usesolomonai, free, access, months, premium, pro, momths, try, hi, solomon
+
+Cluster 28: ADVICE
+Keywords: try, cathovencom, language, teaching, reading, cathovens, generator, english, learning, exercise
+
+Cluster 29: ADVICE
+Keywords: ai, teachers, cathoven, great, check, english, foreign, language, recommend, hi
+
+Cluster 30: ADVICE
+Keywords: interactive, lingoteachai, language, languages, makes, resources, audio, teaching, definitely, powerful
+
+Cluster 32: OTHER
+Keywords: brisk, teaching, amazing, extension, boost, great, teachers, feedback, use, way
+
+Cluster 33: OTHER
+Keywords: brisk, feedback, rubric, detailed, teaching, writing, based, rubrics, create, oral
+
+Cluster 34: ADVICE
+Keywords: english, teacher, hello, ai, thanks, best, im, adding, tool, language
+
+Cluster 35: OTHER
+Keywords: language, monday, join, ai, chat, classroom, teachers, summit, welcome, specifically
+
+Cluster 36: ADVICE
+Keywords: ai, teacher, english, esl, help, teachers, hello, language, try, tool
+
+Cluster 37: OTHER
+Keywords: copilot, microsoft, ms, powerpoint, best, great, good, need, sidespilot, app
+
+Cluster 39: OTHER
+Keywords: perplexity, try, grammarly, perplexityai, fac, checked, better, job, premium, really
+
+Cluster 40: ADVICE
+Keywords: feedback, ive, lot, free, actually, writers, great, saver, used, learning
+
+Cluster 41: ADVICE
+Keywords: teachershubai, free, use, great, brilliant, tool, good, fab, english, private
+
+Cluster 44: ADVICE
+Keywords: ai, group, free, feel, welcome, questions, ask, question, help, friendly
+
+Cluster 45: ADVICE
+Keywords: ai, friendly, welcome, teachers, hi, group, tools, achieve, teach, facebook
+
+Cluster 46: ADVICE
+Keywords: kindly, add, make, connections, group, new, post, ai, welcome, question
+
+Cluster 47: OTHER
+Keywords: able, request, gpt, checkout, signed, prompts, use, try, google, readalong
+
+Cluster 48: OTHER
+Keywords: elevenlabs, capcut, speechify, best, version, free, limited, possibly, good, combination
+
+Cluster 49: OTHER
+Keywords: free, totally, year, sure, good, day, proficient, premium, posted, today
+
+Cluster 50: OTHER
+Keywords: ai, tried, havent, teaching, im, actually, theres, quiacom, amazing, isnt
+
+Cluster 51: OTHER
+Keywords: great, lesson, music, generator, topic, generate, reading, worksheet, includes, feedback
+
+Cluster 52: ADVICE
+Keywords: lol, definitely, things, ask, dont, learn, following, join, presenting, ugh
+
+Cluster 53: OTHER
+Keywords: magicschool, great, magicschools, hands, sure, best, ages, teachers, magicschoolai, way
+
+Cluster 54: ADVICE
+Keywords: school, magic, use, check, try, love, awesome, think, help, like
+
+Cluster 55: OTHER
+Keywords: magic, school, best, work, amazing, sure, lifesaver, great, rainer, eduaide
+
+Cluster 56: OTHER
+Keywords: school, magic, brisk, wepic, twee, look, maybe, hooks, game, eduaide
+
+Cluster 57: BOTH
+Keywords: ai, use, positives, false, tools, like, grammarly, google, translate, plagiarism
+
+Cluster 58: OTHER
+Keywords: easy, create, real, offer, time, collaboration, built, signing, share, canvas
+
+Cluster 59: OTHER
+Keywords: try, cathovencom, betalearneriscom, learneriscom, swiftteachcom, tweecom, check, site, theres, briskteachingcom
+
+Cluster 60: OTHER
+Keywords: apps, education, ai, check, directory, look, try, teachers, looks, favourite
+
+Cluster 61: ADVICE
+Keywords: tools, ai, best, examples, text, video, popular, presentations, educators, free
+
+Cluster 62: ADVICE
+Keywords: recommend, highly, use, really, magicschoolai, recommendation, letters, loom, companion, class
+
+Cluster 64: ADVICE
+Keywords: assessments, students, teachers, student, sign, smarteducator, trial, learning, designed, link
+
+Cluster 67: OTHER
+Keywords: canva, best, use, gamma, app, good, sure, image, works, awesome
+
+Cluster 68: ADVICE
+Keywords: question, great, questions, good, ask, following, group, tool, questionsai, lol
+
+Cluster 69: ADVICE
+Keywords: free, ai, teachers, teams, training, teachershub, look, hi, winning, award
+
+Cluster 70: OTHER
+Keywords: create, historical, make, madlib, asked, fun, figure, great, amazing, utilize
+
+Cluster 71: OTHER
+Keywords: monshaai, great, level, worksheets, create, slides, plans, lesson, external, types
+
+Cluster 72: ADVICE
+Keywords: check, academiqio, tools, level, phd, teacher, khanmigo, teachers, gpts, math
+
+Cluster 73: BOTH
+Keywords: ai, free, course, ethics, teachers, presentation, heres, guide, started, students
+
+Cluster 74: OTHER
+Keywords: free, teachers, gpts, checkout, adobe, express, know, able, want, teacher
+
+Cluster 75: ADVICE
+Keywords: share, yes, hi, care, evenings, tool, images, free, tell, thank
+
+Cluster 76: OTHER
+Keywords: heygen, checkout, synthesia, check, elevenlabs, runway, ml, capcut, suno, sythesia
+
+Cluster 77: ADVICE
+Keywords: try, shown, video, app, tool, check, presented, showcased, second, th
+
+Cluster 78: OTHER
+Keywords: aiforteachersai, gpts, free, teachers, check, ai, checkout, math, wolfram, believe
+
+Cluster 83: ADVICE
+Keywords: ai, tool, teacher, best, use, spanish, try, planning, plans, lesson
+
+Cluster 84: ADVICE
+Keywords: presentation, generator, magicschools, new, awesome, tool, magicschool, writing, tools, feedback
+
+Cluster 85: ADVICE
+Keywords: brisk, great, free, extension, easy, use, teaching, chrome, tool, simple
+
+Cluster 86: OTHER
+Keywords: ai, images, create, padlet, generates, canva, generate, bard, presentations, prezicom
+
+Cluster 87: ADVICE
+Keywords: grimshaw, noemi, alasdair, harris, able, help, resources, drop, answer, great
+
+Cluster 88: ADVICE
+Keywords: free, ai, training, teachershub, teams, offers, offer, award, teachers, teachershubai
+
+Cluster 89: OTHER
+Keywords: slides, ai, google, alayna, extension, using, create, engaging, try, like
+
+Cluster 90: OTHER
+Keywords: google, aigen, slide, plugins, ai, checkout, gamma, canvas, canva, generator
+
+Cluster 91: ADVICE
+Keywords: ai, school, empowered, magicschool, teachers, certifications, nurses, students, tips, chatbots
+
+Cluster 93: OTHER
+Keywords: free, chatgpt, playstore, ask, gpt, zero, chat, plus, releases, hoping
+
+Cluster 95: OTHER
+Keywords: try, slides, create, google, brisk, bubblspacecom, quick, teaching, easy, quiz
+
+Cluster 96: ADVICE
+Keywords: try, ai, mixflow, check, tool, need, perfect, generate, colouring, th
+
+Cluster 97: OTHER
+Keywords: ai, using, dont, thats, think, wonder, im, people, make, good
+
+Cluster 98: ADVICE
+Keywords: ai, use, like, create, chatbot, used, chat, amazing, obsolete, help
+
+Cluster 99: ADVICE
+Keywords: ai, tool, use, try, video, generator, make, using, new, tools
+
+Cluster 101: ADVICE
+Keywords: use, create, different, think, like, make, resources, diffit, try, ai
+
+Cluster 102: ADVICE
+Keywords: ai, know, school, students, learning, teaching, dont, think, use, kids
+
+Cluster 103: ADVICE
+Keywords: school, teacher, high, teaching, use, ai, music, help, content, english
+
+Cluster 104: ADVICE
+Keywords: ai, need, know, hello, ais, ap, world, history, learn, lot
+
+Cluster 105: ADVICE
+Keywords: youre, looking, free, ai, use, tool, lesson, try, content, good
+
+Cluster 106: OTHER
+Keywords: im, foreign, new, looking, english, school, know, teaching, teacher, language
+
+Cluster 107: OTHER
+Keywords: ive, tried, used, havent, brisk, seen, great, ai, good, using
+
+Cluster 108: ADVICE
+Keywords: pangogpt, free, use, try, access, useful, signing, generate, information, help
+
+Cluster 109: OTHER
+Keywords: tell, ai, great, paste, numbers, grammarly, copy, chance, best, letters
+
+Cluster 110: ADVICE
+Keywords: try, dont, thank, later, tool, think, unlimited, app, nd, definitely
+
+Cluster 111: OTHER
+Keywords: curipod, interactive, make, lesson, topic, seconds, standard, presentation, lessons, activities
+
+Cluster 112: ADVICE
+Keywords: im, going, try, thank, help, year, suggestions, interested, love, sure
+
+Cluster 113: OTHER
+Keywords: love, try, students, like, test, id, product, student, wow, sweden
+
+Cluster 114: OTHER
+Keywords: dont, thats, know, work, whats, wanna, isnt, didnt, really, homework
+
+Cluster 115: OTHER
+Keywords: using, love, eduaide, umm, almanackai, ive, kai, point, art, class
+
+Cluster 116: ADVICE
+Keywords: help, understand, generate, summarise, try, questions, presentation, helps, topics, videos
+
+Cluster 117: ADVICE
+Keywords: make, equations, apps, integrate, step, yes, worksheets, templates, slides, pasting
+
+Cluster 118: OTHER
+Keywords: google, use, create, upload, click, brisk, copy, extension, doc, paste
+
+Cluster 119: OTHER
+Keywords: word, create, text, powerpoint, doc, decodable, wordsearch, wordpuzzle, eksport, creating
+
+Cluster 120: OTHER
+Keywords: use, questions, create, upload, google, clips, different, order, used, plantsanimalsinsects
+
+Cluster 123: OTHER
+Keywords: ai, want, chatgpt, hi, use, know, looking, provide, prompt, like
+
+Cluster 124: OTHER
+Keywords: image, save, edit, text, upload, later, file, doc, ask, word
+
+Cluster 125: ADVICE
+Keywords: youtube, video, follow, use, channel, google, resources, make, create, brisk
+
+Cluster 126: ADVICE
+Keywords: free, like, great, hedra, ive, text, gpt, ehsan, hi, question
+
+Cluster 127: OTHER
+Keywords: ai, humanize, use, generated, try, text, humangpt, writetone, copy, content
+
+Cluster 128: OTHER
+Keywords: brisk, google, chrome, extension, teaching, doc, plugin, directly, forms, works
+
+Cluster 129: ADVICE
+Keywords: free, gpts, math, check, wolfram, help, checkout, know, looking, gpt
+
+Cluster 130: ADVICE
+Keywords: create, use, ai, image, tool, upload, video, images, using, brisk
+
+Cluster 131: OTHER
+Keywords: create, images, use, books, tasks, content, presentations, students, readers, customized
+
+Cluster 132: OTHER
+Keywords: google, use, extension, chrome, slides, brisk, gemini, doc, evernote, create
+
+Cluster 133: OTHER
+Keywords: google, lens, try, illuminate, meet, gemini, docs, sheets, vids, perfect
+
+Cluster 134: ADVICE
+Keywords: free, academiqio, absolutely, try, completely, tools, helpful, best, acdemiqio, useful
+
+Cluster 135: OTHER
+Keywords: free, use, ones, try, online, capable, mins, used, service, paid
+
+Cluster 136: ADVICE
+Keywords: try, free, brilliant, academiqio, teachershubai, learneriscom, tool, edsylai, learntai, generators
+
+Cluster 137: ADVICE
+Keywords: lesson, students, writing, lessons, curipods, plans, magic, school, tool, academiqio
+
+Cluster 138: OTHER
+Keywords: check, creating, generating, analysing, questions, writings, plans, lesson, ai, cathoven
+
+Cluster 139: OTHER
+Keywords: claude, france, vincent, st, grenadines, sonnet, caribbean, louisiana, french, artifact
+
+Cluster 140: OTHER
+Keywords: make, time, hours, looking, feedback, solution, check, easier, save, apologise
+
+Cluster 141: ADVICE
+Keywords: tools, use, tool, ai, brisk, great, free, works, used, like
+
+Cluster 142: ADVICE
+Keywords: help, tools, resources, useful, helpful, ai, really, yes, check, able
+
+Cluster 144: OTHER
+Keywords: pakistan, skardu, faisalabad, hunza, pakhtunkhwa, sheikhupura, im, islamabad, karachi, lahore
+
+Cluster 145: OTHER
+Keywords: im, hi, glad, teacher, interested, efl, lithuania, pakistan, india, cambodia
+
+Cluster 147: OTHER
+Keywords: chatgpt, pdf, use, claude, free, google, ones, like, export, aigen
+
+Cluster 148: OTHER
+Keywords: questions, convert, book, chapters, quiz, solution, free, yep, instructions, sure
+
+Cluster 149: ADVICE
+Keywords: free, chatgpt, ai, lesson, heres, create, hi, course, plan, tools
+
+Cluster 151: ADVICE
+Keywords: google, create, magicschool, presentation, use, generator, paperclip, slides, quiz, tool
+
+Cluster 152: OTHER
+Keywords: tried, gamma, ai, diffit, chemixorg, lm, disappointed, pilot, brisk, ms
+
+Cluster 154: OTHER
+Keywords: ai, use, using, teaching, create, worksheets, lesson, try, activities, quizzes
+
+Cluster 155: OTHER
+Keywords: th, grade, science, math, ela, subjects, nd, history, social, teacher
+
+Cluster 156: ADVICE
+Keywords: students, ai, use, used, school, writing, teachers, tool, really, generates
+
+Cluster 157: OTHER
+Keywords: rubric, learns, grade, enlightenai, ai, built, generate, feedback, scores, aligned
+
+Cluster 158: OTHER
+Keywords: zealand, new, wellington, christchurch, oamaru, shannon, whangrei, live, canada, teach
+
+Cluster 159: OTHER
+Keywords: document, use, text, google, create, like, gpt, print, copypaste, feedback
+
+Cluster 160: OTHER
+Keywords: text, level, cathoven, generate, questions, create, check, teachers, cefr, specific
+
+Cluster 161: OTHER
+Keywords: student, braideai, feedback, grade, try, submissions, assessments, handle, multiple, edcafeai
+
+Cluster 162: ADVICE
+Keywords: betalearneriscom, try, generate, quiz, interactive, learneris, lesson, marking, essay, guide
+
+Cluster 163: OTHER
+Keywords: students, use, aigradingassistantcom, ones, grade, multiple, feedback, personally, rubrics, create
+
+Cluster 164: OTHER
+Keywords: gpt, chat, lesson, use, upload, ask, text, questions, specific, plan
+
+Cluster 165: ADVICE
+Keywords: time, saving, teaching, ai, educators, brisk, help, try, use, cathoven
+
+Cluster 166: OTHER
+Keywords: image, make, text, document, use, powerpoint, results, best, style, midjourney
+
+Cluster 167: OTHER
+Keywords: use, chatgpt, ai, using, writing, want, prompt, love, way, used
+
+Cluster 168: OTHER
+Keywords: use, create, google, slides, free, students, ai, teaching, lesson, plans
+
+Cluster 169: ADVICE
+Keywords: learning, youre, students, like, thing, natural, ai, ability, stands, growth
+
+Cluster 170: ADVICE
+Keywords: access, free, pangogpt, lesson, planning, generate, tools, slides, create, presentations
+
+Cluster 171: ADVICE
+Keywords: youre, students, tool, trial, teaching, specialised, sign, happy, link, ai
+
+Cluster 172: ADVICE
+Keywords: free, teachers, access, pangogpt, lesson, planning, supported, content, curriculumaligned, tools
+
+Cluster 173: ADVICE
+Keywords: lesson, free, access, pangogpt, plans, quizzes, planning, resources, presentations, version
+
+Cluster 174: ADVICE
+Keywords: use, ai, create, answerthis, refine, check, google, classroom, resources, based
+
+Cluster 175: ADVICE
+Keywords: ai, school, chatbots, students, support, help, make, language, spaces, translating
+
+Cluster 176: OTHER
+Keywords: use, create, needs, passages, different, reading, meet, attributes, teaching, start
+
+Cluster 177: OTHER
+Keywords: try, teachbuddyai, appgravityai, tomeapp, beautifulai, myais, different, upload, myai, useful
+
+Cluster 178: OTHER
+Keywords: magicschoolai, try, monshaai, chalkieai, love, magicschool, questionwell, tried, like, quite
+
+Cluster 179: CHALLENGES
+Keywords: school, ai, magic, brisk, great, policy, teachers, awesome, curipod, pay
+
+Cluster 180: OTHER
+Keywords: school, magic, ai, try, use, magicschool, using, educators, like, maybe
+
+Cluster 182: ADVICE
+Keywords: ai, im, chatgpt, hi, like, specifically, ive, slides, recommend, model
+
+Cluster 183: OTHER
+Keywords: hi, im, ai, india, teacher, using, teach, science, social, perspective
+
+Cluster 184: OTHER
+Keywords: use, chatgpt, pictures, best, create, upload, content, story, ask, based
+
+Cluster 185: OTHER
+Keywords: reading, students, practice, use, topic, write, story, create, phonics, skills
+
+Cluster 186: OTHER
+Keywords: ai, slides, google, use, create, free, teaching, questions, extension, chrome
+
+Cluster 187: OTHER
+Keywords: slides, google, ai, alayna, images, pick, extension, notes, themes, speaker
+
+Cluster 188: OTHER
+Keywords: students, ai, teachers, school, feedback, essay, teacher, prompts, ive, content
+
+Cluster 190: ADVICE
+Keywords: create, language, languages, english, interactive, teaching, resources, lingoteachai, ai, listening
+
+Cluster 191: OTHER
+Keywords: free, lesson, chatgpt, plan, create, heres, ai, make, post, check
+
+Cluster 192: ADVICE
+Keywords: free, ai, chatgpt, lesson, course, teachers, using, hi, plans, help
+
+Cluster 193: OTHER
+Keywords: free, chatgpt, course, lesson, ai, claude, using, teachers, make, rubrics
+
+Cluster 194: OTHER
+Keywords: ai, like, pay, use, mean, writing, school, want, magic, im
+
+Cluster 195: ADVICE
+Keywords: create, lesson, topics, study, chart, help, questions, shortanswer, quizzes, handwritten
+
+Cluster 196: ADVICE
+Keywords: students, ai, use, used, tools, teach, classroom, video, class, like
+
+Cluster 197: ADVICE
+Keywords: students, use, feedback, work, ai, writing, teaching, student, create, learning
+
+Cluster 198: OTHER
+Keywords: ai, like, chatgpt, use, im, think, students, work, using, better
+
+Cluster 199: OTHER
+Keywords: lesson, plans, use, planning, plan, teaching, create, lessons, students, grading
+
+Cluster 200: OTHER
+Keywords: im, ai, teacher, hi, english, use, students, ive, teaching, school
+
+Cluster 201: ADVICE
+Keywords: chatgpt, ask, need, work, want, prompt, canva, using, try, recommend
+
+Cluster 202: BOTH
+Keywords: ai, great, hi, im, privacy, learning, classroom, education, year, elementary
+
+Cluster 203: OTHER
+Keywords: students, course, need, make, teach, class, ai, technology, education, needs
+
+Cluster 204: ADVICE
+Keywords: ai, school, help, teachers, day, hi, teacher, class, use, using
+
+Cluster 205: ADVICE
+Keywords: help, teacher, use, school, ai, provide, teachers, karla, post, examplesscreenshots
+
+Cluster 206: OTHER
+Keywords: questions, text, ai, reading, students, use, like, images, worksheet, create
+
+Cluster 207: OTHER
+Keywords: omer, sahla, faraidoon, ben, alykum, assalam, mam, fyi, mlouka, umair
+
+Cluster 211: OTHER
+Keywords: diana, thank, johnhan, helpful, ms, knowledgable, provided, jeff, link, excited
+
+Cluster 212: ADVICE
+Keywords: ai, best, teach, use, briskteaching, tools, technology, ielts, cathoven, board
+
+Cluster 214: CHALLENGES
+Keywords: claude, chatgpt, using, tried, try, privacy, use, good, consider, mindful
+
+Cluster 215: OTHER
+Keywords: ai, students, use, data, project, chatbot, questions, time, good, class
+
+Cluster 216: ADVICE
+Keywords: diana, jennifer, johnhan, sarah, jones, usa, maria, help, kristi, indiana
+
+Cluster 217: ADVICE
+Keywords: chatgpt, lesson, plans, template, use, handwriting, readable, easily, plan, free
+
+Cluster 218: OTHER
+Keywords: welcome, happy, group, aboard, hi, board, hello, nicholas, helpful, ai
+
+Cluster 219: OTHER
+Keywords: greetings, malaysia, armenia, hello, portugal, virginia, sudan, serbia, warm, circle
+
+Cluster 221: ADVICE
+Keywords: thank, great, ideas, resources, thanks, amazing, sources, wonderful, teachers, sites
+
+Cluster 222: OTHER
+Keywords: youre, welcome, happy, im, thanks, homeschoolmathnetworksheets, interested, try, ill, love
+
+Cluster 223: OTHER
+Keywords: ai, gemini, try, leonardo, copilot, claude, di, comiati, marty, paid
+
+Cluster 224: OTHER
+Keywords: ai, student, data, students, ferpa, chatgpt, writing, use, teachers, explain
+
+Cluster 225: OTHER
+Keywords: chatgpt, ask, use, make, create, copy, gpt, file, paste, word
+
+Cluster 226: OTHER
+Keywords: ai, kangaroos, essay, grader, checkout, rubric, upload, check, generator, pdf
+
+Cluster 228: OTHER
+Keywords: definitely, need, ask, try, context, needs, teachers, check, game, changer
+
+Cluster 229: ADVICE
+Keywords: sharing, thank, awesome, thanks, amazing, resourceful, resource, helping, guys, idea
+
+Cluster 230: ADVICE
+Keywords: thanks, thank, sharing, help, lot, appreciated, appreciate, really, hi, helpful
+
+Cluster 232: OTHER
+Keywords: chatgpt, ai, kangaroos, claude, try, aiforteachersai, chatgptclaude, upload, document, gemini
+
+Cluster 233: OTHER
+Keywords: ai, using, students, technology, research, kids, use, questions, teachers, best
+
+Cluster 234: ADVICE
+Keywords: ai, lesson, guide, free, ive, anylearnai, help, using, tools, structured
+
+Cluster 235: ADVICE
+Keywords: student, students, dpa, assignment, tool, grade, use, ai, district, work
+
+Cluster 236: OTHER
+Keywords: chatgpt, upload, liking, format, ask, vba, words, write, follow, inputattachement
+
+Cluster 238: CHALLENGES
+Keywords: ai, use, using, assignment, students, dont, write, think, plagiarism, student
+
+Cluster 239: OTHER
+Keywords: ai, use, ask, students, writing, lesson, write, student, chatgpt, like
+
+Cluster 240: OTHER
+Keywords: belgium, netherlands, antwerp, westflanders, brussels, leuven, vlissingen, amstelveen, boksburg, stranraer
+
+Cluster 241: OTHER
+Keywords: magic, school, chatgpt, ai, brisk, seconds, copilot, gamma, pick, gpt
+
+Cluster 243: OTHER
+Keywords: africa, south, central, cameroon, southern, kenya, roodepoort, accounting, pietermaritzburg, johannesburg
+
+Cluster 244: OTHER
+Keywords: language, teacher, english, learners, im, swahili, multilingual, coordinator, novice, intermediate
+
+Cluster 245: OTHER
+Keywords: usa, puerto, rico, ohio, texas, florida, lo, south, venezuela, new
+
+Cluster 247: OTHER
+Keywords: helps, definitely, trying, hope, love, wondered, using, switched, try, gonna
+
+Cluster 253: OTHER
+Keywords: chatgpt, use, gpt, chat, right, prompt, prompting, voice, mode, try
+
+Cluster 254: OTHER
+Keywords: chatgpt, works, gpt, chat, right, think, slides, chatgptzero, chatgpto, yes
+
+Cluster 255: ADVICE
+Keywords: ask, chatgpt, question, exact, ideas, websites, say, asked, plug, answer
+
+Cluster 256: OTHER
+Keywords: like, try, maybe, yes, look, interface, hows, synthesia, website, looks
+
+Cluster 257: OTHER
+Keywords: notebooklm, microsoft, notebook, lm, provided, research, notebookllm, oogle, better, designer
+
+Cluster 262: OTHER
+Keywords: science, chemistry, physics, biology, maths, history, mathematics, computer, math, social
+
+Cluster 263: OTHER
+Keywords: grades, mathematics, science, grade, computer, tech, french, teacher, maths, curriculum
+
+Cluster 264: OTHER
+Keywords: english, language, spanish, french, foreign, literature, languages, history, hs, hungary
+
+Cluster 265: OTHER
+Keywords: teach, hello, high, school, students, english, lebanon, language, science, biology
+
+Cluster 266: OTHER
+Keywords: intelligence, technology, artificial, media, autism, design, canva, transportation, information, development
+
+Cluster 269: OTHER
+Keywords: teach, struggling, reader, students, dyslexic, level, visual, arts, grades, lessons
+
+Cluster 270: ADVICE
+Keywords: suggestions, thank, great, helpful, check, ideas, looking, tip, tips, beginner
+
+Cluster 272: OTHER
+Keywords: teaching, teach, malaysia, georgia, netherlands, spanish, english, greece, south, cambodia
+
+Cluster 274: OTHER
+Keywords: teachers, teacher, teacherserver, prompt, morning, english, eiiish, look, nigeria, educator
+
+Cluster 275: OTHER
+Keywords: school, teacher, principal, worker, um, science, salary, social, grade, hi
+
+Cluster 276: OTHER
+Keywords: education, special, ed, level, teachy, moral, values, science, strd, elementary
+
+Cluster 277: OTHER
+Keywords: school, high, english, primary, middle, kindergarten, elementary, ages, spanish, math
+

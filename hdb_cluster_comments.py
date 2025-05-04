@@ -126,6 +126,8 @@ with open(output_path, "w", encoding="utf-8") as f:
         f.write("\n\n")
 
 print(f"✅ Cluster summaries written to {output_path}")
+dataframe.to_csv("data/clustered_comments.csv", index=False)
+print("📦 Saved clustered DataFrame to data/clustered_comments.csv")
 
 
 # # === Plotting ===
