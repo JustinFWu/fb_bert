@@ -4,16 +4,57 @@ import umap
 import matplotlib.pyplot as plt
 import seaborn as sns
 import os
+import numpy as np
 
 import hdbscan
 from sklearn.feature_extraction.text import TfidfVectorizer
+import re
+
+def normalize_text(text):
+    if not isinstance(text, str):
+        return ""
+
+    text = text.lower().strip()
+
+    patterns_to_remove = [
+        r"warm welcome.*?joined us.*?please introduce.*get know.*",
+        r"warm welcome.*?joined us",
+        r"please introduce.*get know.*",
+        r"hi\s+\w+",
+        r"hello everyone", r"hey everyone",
+    ]
+
+    for pattern in patterns_to_remove:
+        text = re.sub(pattern, '', text)
+
+    text = re.sub(r'[^a-z\s]', '', text)  # remove punctuation
+    text = re.sub(r'\s+', ' ', text)      # collapse whitespace
+    return text.strip()
+
+def remove_near_literal_duplicates(df, embeddings_tensor, column='cleaned_text'):
+    seen = set()
+    keep_rows = []
+    keep_indices = []
+
+    for idx, row in df.iterrows():
+        norm = normalize_text(row[column])
+        if norm not in seen:
+            seen.add(norm)
+            keep_rows.append(row)
+            keep_indices.append(idx)
+
+    new_df = pd.DataFrame(keep_rows).reset_index(drop=True)
+    new_embeddings = embeddings_tensor[keep_indices]
+    return new_df, new_embeddings
 
 embeddings = torch.load("embeddings/post_embeddings.pt")
 dataframe = pd.read_csv("data/cleaned_posts.csv")
+dataframe, embeddings = remove_near_literal_duplicates(dataframe, embeddings, column='cleaned_text')
 
 print("Reducing dimensions with UMAP.....")
-umap_model = umap.UMAP(n_components=5, random_state=42, init="random", metric='cosine')
+umap_model = umap.UMAP(n_components=10, random_state=42, init="random", metric='cosine')
 reduced_embeddings = umap_model.fit_transform(embeddings.numpy())
+
 
 # === HDBSCAN Clustering ===
 print("Clustering with HDBSCAN...")
@@ -42,32 +83,39 @@ keywords_per_cluster = get_top_keywords(dataframe)
 # for cluster, keywords in keywords_per_cluster.items():
 #     print(f"\n🔍 Cluster {cluster} Top Keywords: {', '.join(keywords)}")
 
+def is_low_quality_cluster(texts, min_avg_len=20, uniqueness_threshold=0.5):
+    if not texts:
+        return True
+    avg_len = sum(len(t) for t in texts) / len(texts)
+    unique_ratio = len(set(texts)) / len(texts)
+    return avg_len < min_avg_len or unique_ratio < uniqueness_threshold
+
 # === Save Keywords + Sample Posts to File ===
 os.makedirs("hdb-clusters", exist_ok=True)
-
 output_path = "hdb-clusters/posts_hdbscan_summary.txt"
 
 with open(output_path, "w", encoding="utf-8") as f:
     for cluster in sorted(dataframe['cluster'].unique()):
         if cluster == -1:
-            continue  # skip noise
+            continue
 
-        f.write(f"######## Cluster {cluster} ########\n\n")
+        sample_comments = dataframe[dataframe['cluster'] == cluster]['cleaned_text'].dropna().head(10).tolist()
 
-        # Write Top Keywords
+        # 🧹 Skip low-quality clusters
+        if is_low_quality_cluster(sample_comments):
+            continue
+
         keywords = keywords_per_cluster.get(cluster, [])
+        f.write(f"######## Cluster {cluster} ########\n\n")
         f.write("🔑 Top Keywords:\n")
         f.write(", ".join(keywords) + "\n\n")
+        f.write("💬 Sample Posts:\n")
+        for idx, comment in enumerate(sample_comments, 1):
+            f.write(f"[{idx}] {comment.strip()}\n")
+        f.write("\n\n")
 
-        # Write Top Posts (up to 10)
-        f.write(" Sample Posts:\n")
-        sample_posts = dataframe[dataframe['cluster'] == cluster]['cleaned_text'].dropna().head(5).tolist()
-        for idx, post in enumerate(sample_posts, 1):
-            f.write(f"[{idx}] {post.strip()}\n")
+print(f"✅ Cluster summaries written to {output_path}")
 
-        f.write("\n\n")  # spacing between clusters
-
-print(f"✅ Post cluster summaries written to {output_path}")
 
 
 # (Optional Plotting Block — Uncomment if needed)
