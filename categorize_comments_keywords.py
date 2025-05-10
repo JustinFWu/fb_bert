@@ -36,8 +36,8 @@ def categorize_keywords(keywords):
         return "other"
 
 # Input/output files
-INPUT_FILE = "hdb-clusters/comments_hdbscan_summary.txt"
-OUTPUT_FILE = "hdb-clusters/comments_categorized_clusters.txt"
+INPUT_FILE = "hdb-clusters/posts_hdbscan_summary_BERT.txt"
+OUTPUT_FILE = "hdb-clusters/posts_categorized_clusters_BERT.txt"
 
 with open(INPUT_FILE, "r", encoding="utf-8") as f:
     content = f.read()

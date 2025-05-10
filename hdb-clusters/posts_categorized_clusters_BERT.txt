@@ -1,0 +1,9 @@
+Cluster 0: ADVICE
+Keywords: ai, tool, use, tools, hi, free, teachers, best, create, hello
+
+Cluster 1: ADVICE
+Keywords: ai, teachers, students, chatgpt, free, use, prompt, heres, tools, create
+
+Cluster 2: OTHER
+Keywords: ai, im, hi, new, group, use, joined, recently, teacher, want
+

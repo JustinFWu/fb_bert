@@ -35,8 +35,8 @@ if __name__ == "__main__":
     comments_path = "data/facebook comments.xlsx"
 
     posts_dataframe, comments_dataframe = load_and_clean_data(posts_path, comments_path)
-    posts_dataframe.to_csv("data/cleaned_posts.csv", index=False)
-    comments_dataframe.to_csv("data/cleaned_comments.csv", index=False)
+    posts_dataframe.to_csv("data/cleaned_posts_BERT.csv", index=False)
+    comments_dataframe.to_csv("data/cleaned_comments_BERT.csv", index=False)
 
     post_text = posts_dataframe['cleaned_text'].fillna("").tolist()
     comments_text = comments_dataframe['cleaned_text'].fillna("").tolist()
@@ -44,8 +44,8 @@ if __name__ == "__main__":
     post_embeddings = get_roberta_embeddings(post_text)
     comments_embeddings = get_roberta_embeddings(comments_text)
 
-    torch.save(post_embeddings, "embeddings/post_embeddings.pt")
-    torch.save(comments_embeddings, "embeddings/comments_embeddings.pt")
+    torch.save(post_embeddings, "embeddings/post_embeddings_BERT.pt")
+    torch.save(comments_embeddings, "embeddings/comments_embeddings_BERT.pt")
 
     print(" Posts Embedding shape:", post_embeddings.shape)
     print(" Comments Embedding shape:", comments_embeddings.shape)

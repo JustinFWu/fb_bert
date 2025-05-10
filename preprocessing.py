@@ -13,25 +13,13 @@ def clean_text(text):
 
     if pd.isnull(text):
         return ""
-    
-    # turn some text into lowercase
-    text = text.lower()
 
     # remove all urls
     text = re.sub(r"http\S+|www\S+|https\S+", '', text, flags=re.MULTILINE)
 
-    #remove all special characters as well
-    text = re.sub(r"[^a-zA-Z\s]", '', text)
-
     # remove all extra spaces
     text = re.sub(r'\s+', ' ', text).strip()
-
-    # remove all the stopwords
-    stop_words = set(stopwords.words('english'))
-    text_tokens = text.split()
-    filtered_text = [word for word in text_tokens if word not in stop_words]
-
-    return ' '.join(filtered_text)
+    return text
 
 def load_and_clean_data(posts_path, comments_path):
     """

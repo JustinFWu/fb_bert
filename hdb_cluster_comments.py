@@ -37,7 +37,7 @@ def remove_near_literal_duplicates(df, embeddings_tensor, column='cleaned_text')
     return new_df, new_embeddings
 
 
-embeddings = torch.load("embeddings/comments_embeddings.pt")
+embeddings = torch.load("embeddings/comments_embeddings_BERT.pt")
 dataframe = pd.read_csv("data/cleaned_comments.csv")
 dataframe, embeddings = remove_near_literal_duplicates(dataframe, embeddings, column='cleaned_text')
 
@@ -103,7 +103,7 @@ def is_low_quality_cluster(texts, min_avg_len=20, uniqueness_threshold=0.5):
 
 # === Save Keywords + Sample Comments to File ===
 os.makedirs("hdb-clusters", exist_ok=True)
-output_path = "hdb-clusters/comments_hdbscan_summary.txt"
+output_path = "hdb-clusters/comments_hdbscan_summary_BERT.txt"
 
 with open(output_path, "w", encoding="utf-8") as f:
     for cluster in sorted(dataframe['cluster'].unique()):
@@ -126,7 +126,7 @@ with open(output_path, "w", encoding="utf-8") as f:
         f.write("\n\n")
 
 print(f"✅ Cluster summaries written to {output_path}")
-dataframe.to_csv("data/clustered_comments.csv", index=False)
+dataframe.to_csv("data/clustered_comments_BERT.csv", index=False)
 print("📦 Saved clustered DataFrame to data/clustered_comments.csv")
 
 
