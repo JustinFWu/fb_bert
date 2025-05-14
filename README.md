@@ -18,3 +18,19 @@ Research Questions:
 4. What are teachers' expectations of AI tool developers or education policy makers?
 
  
+
+ ################ What has been done:
+
+ separate into clusters
+ clusters labelled
+
+ sentimental analysis done
+ fix check_helpseeking.py issue and extract information on which comments has received positive help.
+
+ ################ What needs to be done now:
+
+ interpret results:
+ address main barriers of challenges.
+ explore most common response
+ how much support do they get?
+ expectations

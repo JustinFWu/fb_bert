@@ -1,0 +1,13 @@
+Sentiment counts by cluster:
+sentiment  NEGATIVE  POSITIVE
+cluster                      
+0               577       520
+1                78       106
+2               636       706
+
+Sentiment percentages by cluster:
+sentiment  NEGATIVE  POSITIVE
+cluster                      
+0              0.53      0.47
+1              0.42      0.58
+2              0.47      0.53
